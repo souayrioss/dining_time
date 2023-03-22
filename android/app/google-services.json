@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524351444395",
+    "project_id": "diningtime-eeafb",
+    "storage_bucket": "diningtime-eeafb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524351444395:android:51be2020cebc8b20d42eee",
+        "android_client_info": {
+          "package_name": "org.roronoa.dining_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524351444395-jkqb5mimirevaljim38qprfm38jp7du6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp1MUZedUrJf8K_5dqafdaSt6GBq3KaRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524351444395-jkqb5mimirevaljim38qprfm38jp7du6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
